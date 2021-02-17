@@ -1,0 +1,4 @@
+hello 
+this is new file that i wrote with vim 
+
+כיצד vim מסתדר עם אנגלית שפה קשה
